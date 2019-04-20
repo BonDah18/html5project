@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My name is Ine Dah. One of my nicknames is Ine Bond. 
 
-Things you may want to cover:
+After getting married, I combinded the two and now its Ine BonDah. 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I hope get all the gitting there is to git lol. 
